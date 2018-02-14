@@ -1,26 +1,38 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: My life at Perffy
+email: oscar@perffy.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A blog about my days as CEO of Perffy, the social network
+  for the entertainment business.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://perffy.com" # the base hostname & protocol for your site
 
+twitter_username: hoscarcito
+github_username:  hoscarcito
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'tag'
 
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+author:                                     #自定义常亮
+  name: Oscar
+  email: oscar@perffy.com
+  link: http://www.perffy.com
+  github: http://github.com/hoscarcito
+title: My life at Perffy
+
 
 # Social account
-# twitter:  username
+ twitter:  hoscarcito
 # weibo:    ID
-# github:   username
-# codepen:  username
-# dribbble: username
+ github:   hoscarcito
+# codepen:  hoscarcito
+# dribbble: hoscarcito
 
+avatar: https://avatars2.githubusercontent.com/u/21994007?s=460&v=4
+favicon: http://www.perffy.com/img/favicon.png
 
 # Comment
 # disqus_shortname: discussion_shortname
