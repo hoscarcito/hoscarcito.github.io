@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A blog about my days as CEO of Perffy, the social network
   for the entertainment business.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://perffy.com" # the base hostname & protocol for your site
+url: "https://hoscarcito.github.io/" # the base hostname & protocol for your site
 
 twitter_username: hoscarcito
 github_username:  hoscarcito
