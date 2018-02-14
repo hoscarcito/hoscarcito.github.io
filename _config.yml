@@ -25,9 +25,12 @@ author:                                     #自定义常亮
 # Social account
  twitter:  hoscarcito
 # weibo:    ID
- github:   hoscarcito
+# github:   hoscarcito
 # codepen:  hoscarcito
 # dribbble: hoscarcito
+
+avatar: https://avatars2.githubusercontent.com/u/21994007?s=460&v=4
+favicon: http://www.perffy.com/img/favicon.png
 
 # Comment
 # disqus_shortname: discussion_shortname
