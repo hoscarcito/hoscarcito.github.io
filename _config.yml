@@ -7,19 +7,30 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://perffy.com" # the base hostname & protocol for your site
 
+twitter_username: hoscarcito
+github_username:  hoscarcito
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
 filter: 'tag'
 
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+author:                                     #自定义常亮
+  name: Oscar
+  email: oscar@perffy.com
+  link: http://www.perffy.com
+  github: http://github.com/hoscarcito
 
 # Social account
-# twitter:  username
+ twitter:  hoscarcito
 # weibo:    ID
-# github:   username
-# codepen:  username
-# dribbble: username
+ github:   hoscarcito
+# codepen:  hoscarcito
+# dribbble: hoscarcito
 
+avatar: https://avatars2.githubusercontent.com/u/21994007?s=460&v=4
+favicon: http://www.perffy.com/img/favicon.png
 
 # Comment
 # disqus_shortname: discussion_shortname
