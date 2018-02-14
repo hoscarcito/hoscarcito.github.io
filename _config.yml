@@ -12,7 +12,7 @@ github_username:  hoscarcito
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
-filter: 'tag'
+#filter: 'tag'
 
 permalink: /:year/:month/:day/:title.html
 paginate: 10
